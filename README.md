@@ -1,1 +1,1 @@
-# CIFAR10--CNN(Image clacification)
+# CIFAR10--CNN
